@@ -7,6 +7,7 @@ import {
   const routes = [
     { path: "/", component: () => import("@/components/Home.vue") },
     { path: "/:game", component: () => import("@/components/Game.Home.vue") },
+    { path: "/:game/:wc", component: () => import("@/components/Weapons.Game.vue") },
   ];
   
   export const BASE_URL = "/#/";

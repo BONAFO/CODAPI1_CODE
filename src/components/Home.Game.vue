@@ -1,9 +1,13 @@
 <script setup>
+import Store from '@/assets/store.manager';
 import { redirect } from '@/router/router';
 
 
 
 const moveto =(id)=>{
+    console.log(id);
+    Store.save("API_NAME" , `COD-${id}`)
+    console.log(Store.get("API_NAME"));
     redirect(id)
 }
 

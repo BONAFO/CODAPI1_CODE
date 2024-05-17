@@ -1,0 +1,132 @@
+[
+  {
+    "id":0,
+    "name": "Reflex Sight"
+    
+  }  ,
+  {
+    "id":1,
+    "name": "Laser Sight"
+    
+  }  ,
+  {
+    "id":2,
+    "name": "Suppressor"
+    
+  }  ,
+  {
+    "id":3,
+    "name": "Fast Mag"
+    
+  }  ,
+  {
+    "id":4,
+    "name": "EOTech Sight"
+    
+  }  ,
+  {
+    "id":5,
+    "name": "Fore Grip"
+    
+  }  ,
+  {
+    "id":6,
+    "name": "Quickdraw Handle"
+    
+  }  ,
+  {
+    "id":7,
+    "name": "Full Metal Jacket"
+    
+  }  ,
+  {
+    "id":8,
+    "name": "Long Barrel"
+    
+  }  ,
+  {
+    "id":9,
+    "name": "Target Finder"
+    
+  }  ,
+  {
+    "id":10,
+    "name": "Extended Clip"
+    
+  }  ,
+  {
+    "id":11,
+    "name": "Select Fire"
+    
+  }  ,
+  {
+    "id":12,
+    "name": "Rapid Fire"
+    
+  }  ,
+    {
+    "id":13,
+    "name": "Millimeter Scanner"
+    
+  }  ,
+  {
+    "id":14,
+    "name": "Grenade Launcher"
+    
+  }  ,
+
+  {
+    "id":15,
+    "name": "Hybrid Optic"
+    
+  }  ,
+  {
+    "id":16,
+    "name": "Adjustable Stock"
+    
+  } , 
+  {
+    "id":17,
+    "name": "ACOG Sight"
+    
+  } ,
+  {
+    "id":18,
+    "name": "Variable Zoom"
+    
+  },
+  {
+    "id":19,
+    "name": "Extended Clip"
+    
+  } ,
+  {
+    "id":20,
+    "name": "Dual Band Scope"
+    
+  }   ,
+  
+{
+    "id":21,
+    "name": "Ballistics CPU"
+    
+  }   ,  {
+    "id":22,
+    "name": "Iron Sight"
+    
+  }  ,  {
+    "id":23,
+    "name": "Tactical Knife"
+    
+  }       
+  ,  {
+    "id":24,
+    "name": "Dual Wield"
+    
+  }        
+]
+
+
+    
+
+

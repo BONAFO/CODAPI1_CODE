@@ -1,3 +1,250 @@
-[{
-    "akm" : 12
-}]
+[
+  {
+    "id": 0,
+    "name": "Submachine Guns",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/1/1a/Vector_k10.bmp?width=325",
+    "weapons": [
+      {
+        "id": 0,
+        "name": "Chicom CQB",
+        "att": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/d/d3/Chicom_cqb.bmp"
+      },
+      {
+        "id": 1,
+        "name": "PDW-57",
+        "att": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/c/cc/Pdw-57.bmp?width=325"
+      },
+      {
+        "id": 2,
+        "name": "MP7",
+        "att": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/f/f5/Mp7.bmp?width=325"
+      },
+      {
+        "id": 3,
+        "name": "MSMC",
+        "att": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/a/a8/Msmc.bmp?width=325"
+      },
+      {
+        "id": 4,
+        "name": "Skorpion EVO",
+        "att": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/3/30/Skorpion_evo.bmp?width=325"
+      },
+      {
+        "id": 5,
+        "name": "Vector K10",
+        "att": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/1/1a/Vector_k10.bmp?width=325"
+      }
+    ]
+  },
+
+  {
+    "id": 1,
+    "name": "Assault Rifles",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/c/ca/M8a1.bmp?width=325",
+    "weapons": [
+      {
+        "id": 0,
+        "name": "AN-94",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/9/95/An-94.bmp?width=325"
+      },
+      {
+        "id": 1,
+        "name": "FAL OSW",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/0/04/Fal_osw.bmp?width=325"
+      },
+      {
+        "id": 2,
+        "name": "M8A1",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/c/ca/M8a1.bmp?width=325"
+      },
+      {
+        "id": 3,
+        "name": "M27",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/c/c2/M27.bmp?width=325"
+      },
+      {
+        "id": 4,
+        "name": "MTAR",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/3/35/Mtar.bmp?width=325"
+      },
+      {
+        "id": 5,
+        "name": "SCAR-H",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/0/0b/Scar-h.bmp?width=325"
+      },
+      {
+        "id": 6,
+        "name": "SMR",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/2/2b/Smr.bmp?width=325"
+      },
+      {
+        "id": 7,
+        "name": "SWAT-556",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/b/b7/Swat-556.bmp?width=325"
+      },
+      {
+        "id": 8,
+        "name": "Type 25",
+        "att": [0, 6, 3, 17, 5, 16, 9, 1, 11, 4, 2, 7, 15, 10, 14, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/1/1d/Type25.bmp?width=325"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Shotguns",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/c/cb/Ksg.bmp?width=640",
+    "weapons": [
+      {
+        "id": 0,
+        "name": "KSG",
+        "att": [0, 8, 3, 1, 16, 2, 10, 6, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/c/cb/Ksg.bmp?width=640"
+      },
+      {
+        "id": 0,
+        "name": "M1216",
+        "att": [0, 8, 3, 1, 16, 2, 10, 6, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/f/fd/M1216.bmp?width=640"
+      },
+      {
+        "id": 0,
+        "name": "R870 MCS",
+        "att": [0, 8, 3, 1, 16, 2, 10, 6, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/d/d5/R870_mcs.bmp?width=640"
+      },
+      {
+        "id": 0,
+        "name": "S12",
+        "att": [0, 8, 3, 1, 16, 2, 10, 6, 13],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/6/62/S12.bmp?width=640"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Light Machine Guns",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/7/74/Mk_48.bmp?width=640",
+    "weapons": [
+      {
+        "id": 0,
+        "name": "HAMR",
+        "att": [4, 5, 7, 0, 6, 9, 16, 17, 1, 2, 18, 19, 15, 12, 20],
+
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/2/2e/Hamr.bmp?width=640"
+      },
+
+      {
+        "id": 1,
+        "name": "LSAT",
+        "att": [4, 5, 7, 0, 6, 9, 16, 17, 1, 2, 18, 19, 15, 12, 20],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/c/c4/Lsat.bmp?width=640"
+      },
+
+      {
+        "id": 2,
+        "name": "Mk 48",
+        "att": [4, 5, 7, 0, 6, 9, 16, 17, 1, 2, 18, 19, 15, 12, 20],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/7/74/Mk_48.bmp?width=640"
+      },
+
+      {
+        "id": 3,
+        "name": "QBB LSW",
+        "att": [4, 5, 7, 0, 6, 9, 16, 17, 1, 2, 18, 19, 15, 12, 20],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/f/f0/Qbb_lsw.bmp?width=640"
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Sniper Rifles",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/2/22/Ballista.bmp?width=325",
+    "weapons": [
+      {
+        "id": 0,
+        "name": "Ballista",
+        "att": [2, 21, 18, 3, 7, 17, 19, 1, 20, 22],
+
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/2/22/Ballista.bmp?width=325"
+      },
+
+      {
+        "id": 0,
+        "name": "DSR 50",
+        "att": [2, 21, 18, 3, 7, 17, 19, 1, 20],
+
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/8/86/Dsr_50.bmp?width=325"
+      },
+      {
+        "id": 0,
+        "name": "SVU-AS",
+        "att": [2, 21, 18, 3, 7, 17, 19, 1, 20],
+
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/f/fd/Svu-as.bmp?width=325"
+      },
+      {
+        "id": 0,
+        "name": "XPR-50",
+        "att": [2, 21, 18, 3, 7, 17, 19, 1, 20],
+
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/b/bc/Xpr-50.bmp?width=325"
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Pistols",
+    "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/3/36/Five-seven.bmp?width=640",
+    "weapons": [
+      {
+        "id": 0,
+        "name": "B23R",
+        "att": [0, 10, 1, 8, 7, 3, 2, 23, 24],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/9/90/B23r.bmp?width=325"
+      },
+      {
+        "id": 1,
+        "name": "Executioner",
+        "att": [0, 1, 8, 7, 3, 2, 23, 24],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/e/e2/Executioner.bmp?width=640"
+      },
+      {
+        "id": 2,
+        "name": "Five Seven",
+        "att": [0, 10, 1, 8, 7, 3, 2, 23, 24],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/3/36/Five-seven.bmp?width=640"
+      },
+      {
+        "id": 3,
+        "name": "KAP-40",
+        "att": [0, 10, 1, 8, 7, 3, 2, 23, 24],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/2/2f/Kap-40.bmp?width=325"
+      },
+      {
+        "id": 4,
+        "name": "Tac-45",
+        "att": [0, 10, 1, 8, 7, 3, 2, 23, 24],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-2012/e/ef/Tac-45.bmp?width=640"
+      }
+    ]
+  }
+]
